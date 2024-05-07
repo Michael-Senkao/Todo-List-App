@@ -39,7 +39,7 @@ To run the Todo List App locally, follow these steps:
     ```bash
       npm start
 
-Open your web browser and visit http://localhost:3000 to view the app.
+Open your web browser and visit http://localhost:5173 to view the app.
 
 
 ## Technologies Used
@@ -48,7 +48,7 @@ Open your web browser and visit http://localhost:3000 to view the app.
 - HTML: Hypertext Markup Language for structuring the web page.
 
 ## Author
-Michael Senkao
+[Michael Senkao](https://github.com/Michael-Senkao)
 
 ## License
 
