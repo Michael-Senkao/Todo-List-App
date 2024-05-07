@@ -1,7 +1,4 @@
-// ToDoItem.jsx
-
 import React, { useState } from "react";
-//import "/styles.css";
 
 function ToDoItem(props) {
   const [isComplete, setComplete] = useState(false);

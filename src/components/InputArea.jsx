@@ -1,7 +1,4 @@
-// InputArea.jsx
-
 import React, { useState } from "react";
-//import "/styles.css";
 
 function InputArea(props) {
   const [inputText, setInputText] = useState("");

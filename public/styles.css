@@ -66,8 +66,6 @@ button {
   cursor: pointer;
 }
 
-
-
 button span {
   background: #f1f5f8;
   display: block;
@@ -76,9 +74,9 @@ button span {
   border: 2px solid hsl(198, 1%, 29%);
 }
 
-.todoItem{
+.todoItem {
   padding: 20px;
-  border-bottom:  1px solid #bfc0c1;
+  border-bottom: 1px solid #bfc0c1;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -86,11 +84,12 @@ button span {
   border-radius: 10px;
 }
 
-.todoItem:hover, .form span:hover{
+.todoItem:hover,
+.form span:hover {
   background-color: #baefbe;
 }
 
-.todoItem button{
+.todoItem button {
   padding: 0;
 }
 
