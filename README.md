@@ -39,7 +39,7 @@ To run the Todo List App locally, follow these steps:
     ```bash
       npm start or npm run dev
 
-Open your web browser and visit http://localhost:3000 (localhost:5173 if you used npm run dev) to view the app.
+Open your web browser and visit http://localhost:3000  (http://localhost:5173 if you used npm run dev) to view the app.
 
 
 ## Technologies Used
